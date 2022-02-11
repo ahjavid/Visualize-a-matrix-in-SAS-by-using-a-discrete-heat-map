@@ -1,4 +1,4 @@
-# Visualize-a-matrix-in-SAS-by-using-a-discrete-heat-map
+# Visualize a matrix in SAS by using a discrete heat map
 
 A heat map is a graphical representation of a matrix that uses colors to
 represent values in the matrix cells. Heat maps often reveal the
