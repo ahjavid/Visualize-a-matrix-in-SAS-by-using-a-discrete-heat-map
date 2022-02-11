@@ -25,3 +25,10 @@ start WriteMatrixInLongForm(Y, DSName);
    append;
    close (DSName);
 finish;
+
+run WriteMatrixInLongForm(X, "X");
+run WriteMatrixInLongForm(Z, "Z");
+run WriteMatrixInLongForm(G, "G");
+run WriteMatrixInLongForm(R, "R");
+run WriteMatrixInLongForm(var_y, "VARy");
+quit;
